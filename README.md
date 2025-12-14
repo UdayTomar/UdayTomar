@@ -1,16 +1,27 @@
 ## Hi there 👋
+I’m an AI & design builder who work at the intersection of **AI, design, and web development**, turning ideas into systems that look good and work well.
 
-<!--
-**UdayTomar/UdayTomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If something sparks my curiosity, chances are I’ll explore it, build it, and ship a version of it.
 
-Here are some ideas to get you started:
+Alongside my personal work, I run **Polarite**, a design-focused studio where I work on branding, UI/UX, and digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m especially interested in how **design thinking and engineering** come together to create scalable products.
+
+---
+
+### Tech & Tools
+- Python, JavaScript
+- HTML, CSS, full-stack fundamentals
+- Git & GitHub
+- Figma, design systems, branding workflows
+
+---
+
+### What I’m Focused On
+- Building real-world projects with AI and web technologies
+- Strengthening full-stack and system-level thinking
+- Designing systems that balance clarity, performance, and aesthetics
+
+---
+
+More projects, experiments, and case studies coming soon.
