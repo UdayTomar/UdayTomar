@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m an AI & design builder who work at the intersection of **AI, design, and web development**, turning ideas into systems that look good and work well.
 
-If something sparks my curiosity, chances are I’ll explore that, build it, and ship a version of it.
+If something sparks my curiosity, chances are I’ll explore it, build it, and ship a version of it.
 
 Alongside my personal work, I run **Polarite**, a design-focused studio where I work on branding, UI/UX, and digital experiences.
 
